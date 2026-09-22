@@ -2,8 +2,8 @@
 
 int main() {
     float nota;
-    soma = 0;
-    media;
+    float soma = 0;
+    float media;
 
     for (int i = 1; i <= 10; i++) {
         printf("digite a nota do cliente %d: ", i);
