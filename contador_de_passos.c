@@ -2,8 +2,8 @@
 
 int main() {
     int passos;
-    total = 0;
-    horas = 0;
+    int total = 0;
+    int horas = 0;
 
     while (total < 10000) {
         printf("digite a quantidade de passos: ");
