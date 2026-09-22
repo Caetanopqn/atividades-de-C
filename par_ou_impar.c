@@ -3,7 +3,7 @@
 int main() {
     int numero;
     int pares = 0;
-    impares = 0;
+    int impares = 0;
 
     for (int i = 1; i <= 10; i++) {
         printf("digite um valor: ");
